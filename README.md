@@ -1,4 +1,4 @@
-# Jeronimo M.L
+# Hey, I'm Gingertinian
 
 **Full-Stack Engineer** — I design and build production systems from scratch.
 
@@ -37,15 +37,6 @@ Payments      Stripe, Coinbase Commerce, Plisio
 
 ---
 
-### Repos
-
-| Repo | Description |
-|---|---|
-| [gpu-tools](https://github.com/Gingertinian/gpu-tools) | RunPod serverless GPU handlers — 13 tools, CUDA/NVENC pipelines, multi-GPU orchestration |
-| [Bot2bot](https://github.com/Gingertinian/Bot2bot) | Telegram bot framework |
-
----
-
 ### Contact
 
-**Jerolarreta@pm.me** — Remote, open to relocation — English (Advanced) / Spanish (Native)
+**gngtnan at pm.me** — Remote, open to relocation — English (Advanced) / Spanish (Native)
