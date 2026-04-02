@@ -39,4 +39,4 @@ Payments      Stripe, Coinbase Commerce, Plisio
 
 ### Contact
 
-**gngtnan at pm.me** — Remote, open to relocation — English (Advanced) / Spanish (Native)
+**gngtnan at pm.me
