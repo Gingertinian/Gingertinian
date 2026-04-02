@@ -39,4 +39,4 @@ Payments      Stripe, Coinbase Commerce, Plisio
 
 ### Contact
 
-**gngtnan at pm.me
+gngtnan@pm.me
