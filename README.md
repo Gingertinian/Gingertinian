@@ -1,8 +1,8 @@
 # Hey, I'm Hero
 
-**Full-Stack Engineer** — I design and build production systems from scratch.
+**Full-Stack Engineer and Farmium Co-Founder** — I design and build production systems from scratch.
 
-I single-handedly built **Farmium**, a production SaaS platform spanning **468K+ lines of code** across 3 interconnected systems: a web app with visual workflow automation, a multi-tenant B2B API, and a GPU-accelerated media processing framework running on NVIDIA hardware.
+I single-handedly built **Farmium code**, a production SaaS platform spanning **468K+ lines of code** across 3 interconnected systems: a web app with visual workflow automation, a multi-tenant B2B API, and a GPU-accelerated media processing framework running on NVIDIA hardware.
 
 ---
 
