@@ -1,27 +1,27 @@
 # Hey, I'm Hero
 
-**Full-Stack Engineer and Farmium Co-Founder** — I design and build production systems from scratch.
+**Full-Stack & ML Engineer · Farmium Co-Founder** — I design and build production systems from scratch.
 
-I single-handedly built **Farmium code**, a production SaaS platform spanning **468K+ lines of code** across 3 interconnected systems: a web app with visual workflow automation, a multi-tenant B2B API, and a GPU-accelerated media processing framework running on NVIDIA hardware.
+I single-handedly built **Farmium**, a production SaaS platform spanning **468K+ lines of code** across 3 interconnected systems: a web app with visual workflow automation, a multi-tenant B2B API, and a GPU-accelerated media-processing framework running on NVIDIA hardware.
 
 ---
 
 ### What I Built
 
-**Farmium** — Social media management + GPU content tools + workflow automation
+**Farmium** — Creator content platform · GPU media pipelines · workflow automation
 
 | | |
 |---|---|
 | **Scale** | 468K+ LOC, 102 DB models, 668+ endpoints, 47 backend modules, 309 Vue components |
-| **Workflow Engine** | Visual DAG builder with speculative execution (branch prediction / BTB), CMA-ES + Bayesian + evolutionary optimization, Merkle tree caching, Hindley-Milner type inference, 5-agent AI debate protocol for automated design |
-| **GPU Processing** | 13 serverless tools on RunPod: spoofer (20+ pHash transforms), captioner (MediaPipe face-aware), face swap (InsightFace/ONNX), Real-ESRGAN upscaling, Stable Video Diffusion. Multi-GPU NVENC/NVDEC pipelines |
-| **Security** | 13,500 LOC: JWT with IP/fingerprint binding, L1/L2/L3 token blacklist, credential stuffing detection, AES-256-GCM encryption, ClamAV scanning, impossible travel detection |
-| **Real-Time** | 10 WebSocket gateways, Yjs (CRDT) collaborative editing, custom Raw WS server (2,589 LOC) controlling 50 physical phones |
-| **AI** | Multi-agent architect (Claude Opus + GPT-4o debate), 15+ models (Kling, Runway, Veo, Sora, GPT-4o, Claude, DeepSeek), atomic credit billing |
+| **Workflow Engine** | Visual DAG builder with speculative execution (branch prediction / BTB), CMA-ES + Bayesian + evolutionary optimization, Merkle-tree caching, Hindley–Milner type inference, 5-agent AI debate protocol for automated design |
+| **GPU / Media** | 13 serverless tools on RunPod: perceptual-hash–driven video augmentation (20+ transforms), face-aware auto-captioning (MediaPipe), identity-aware face pipeline (InsightFace/ONNX), Real-ESRGAN super-resolution, Stable Video Diffusion. Multi-GPU NVENC/NVDEC pipelines |
+| **Security** | 13,500 LOC: JWT with IP/fingerprint binding, L1/L2/L3 token blacklist, credential-stuffing detection, AES-256-GCM encryption, ClamAV scanning, impossible-travel detection |
+| **Real-Time & Orchestration** | 10 WebSocket gateways, Yjs (CRDT) collaborative editing, and a custom WebSocket protocol server (2,589 LOC) orchestrating a fleet of 50+ Android devices in real time |
+| **AI** | Multi-agent architect (Claude Opus + GPT-4o debate), 15+ integrated models (Kling, Runway, Veo, Sora, GPT-4o, Claude, DeepSeek), atomic credit billing |
 | **Payments** | Stripe subscriptions + Coinbase + Plisio (8 cryptocurrencies), pre-deduction credit system |
-| **Frontend** | Timeline video editor (15K LOC, 70+ effects), Three.js 3D security graph, music visualizer with FFT/beat detection, 47 composables |
+| **Frontend** | Timeline video editor (15K LOC, 70+ effects), Three.js 3D security graph, music visualizer with FFT / beat detection, 47 composables |
 
-**Stack:** Vue 3 + NestJS 11 + PostgreSQL + Prisma + Redis + BullMQ + Python + CUDA + RunPod + Docker + Railway + Vercel
+**Stack:** Vue 3 · NestJS 11 · PostgreSQL · Prisma · Redis · BullMQ · Python · CUDA · RunPod · Docker · Railway · Vercel
 
 ---
 
